@@ -48,9 +48,23 @@ To transform raw graduation data into an interactive dashboard that supports dat
 
 ## Repository Contents
 
-- Dashboard Screenshots
-- Project Report.pdf
-- README.md
+## Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Academic Performance Analysis
+
+![Academic Performance Analysis](Academic_performance_Analysis.png)
+
+### Gender & Faculty Analysis
+
+![Gender & Faculty Analysis](Gender_faculty_Analysis.png.png)
+
+### Key Findings
+
+![Key Findings](Key_Findings.png)
 
 > **Note:** The original dataset is not included in this repository to protect student privacy and confidential information
 
