@@ -48,6 +48,10 @@ To transform raw graduation data into an interactive dashboard that supports dat
 
 ## Repository Contents
 
+- Dashboard Screenshots
+- [Project Report (PDF)](UNN_2024_ANALYSIS_REPORT_PROJECT_REPORT.pdf)
+- README.md
+  
 ## Dashboard Screenshots
 
 ### Dashboard Overview
