@@ -56,7 +56,8 @@ To transform raw graduation data into an interactive dashboard that supports dat
 ### Academic Performance Analysis
 ![Academic Performance Analysis](Academic_performance_Analysis.png)
 
-### Gender Faculty Analysis
+## Gender Faculty Analysis
+
 ![Gender Faculty Analysis](Gender_faculty_Analysis.png)
 
 ### Key Findings
