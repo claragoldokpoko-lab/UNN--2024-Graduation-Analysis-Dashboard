@@ -58,7 +58,7 @@ To transform raw graduation data into an interactive dashboard that supports dat
 
 ## Gender Faculty Analysis
 
-![Gender Faculty Analysis](Gender_faculty_Analysis.png)
+![Gender Faculty Analysis](Gender_Faculty_Analysis.png)
 
 ### Key Findings
 ![Key Findings](Key_Findings.png)
