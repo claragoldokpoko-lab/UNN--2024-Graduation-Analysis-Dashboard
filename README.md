@@ -54,10 +54,10 @@ To transform raw graduation data into an interactive dashboard that supports dat
 ![Dashboard Overview](Dashboard_Overview.png)
 
 ### Academic Performance Analysis
-![Academic Performance Analysis](Academic_performance_Analysis.png.png)
+![Academic Performance Analysis](Academic_performance_Analysis.png)
 
 ### Gender Faculty Analysis
-![Gender Faculty Analysis](Gender_faculty_Analysis.png.png)
+![Gender Faculty Analysis](Gender_faculty_Analysis.png)
 
 ### Key Findings
 ![Key Findings](Key_Findings.png)
